@@ -1,8 +1,4 @@
 
-# Project Title
-
-A brief description of what this project does and who it's for
-
 # Credit Card Fraud Detection
 
 A Streamlit-based web application that uses machine learning models to detect fraudulent credit card transactions.
